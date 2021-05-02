@@ -1,4 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
 body{font-size: 14px;}
+a{text-decoration: none;}
 div.weekly{column-count: 2; float: left;}
